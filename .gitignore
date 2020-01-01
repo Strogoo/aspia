@@ -13,3 +13,4 @@
 
 # SW build dir
 .sw
+.ts
