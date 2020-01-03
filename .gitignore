@@ -1,3 +1,4 @@
+*.ts
 # VS build folders
 /.vs/
 /build/
@@ -13,4 +14,4 @@
 
 # SW build dir
 .sw
-.ts
+
